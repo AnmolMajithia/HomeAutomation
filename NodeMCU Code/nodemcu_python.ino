@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "Majithia";
-const char* password = "lightsgoout";
+const char* ssid     = "<Wifi Name>";
+const char* password = "<Wifi Password>";
 
 // Set web server port number to 80
 WiFiServer server(80);
